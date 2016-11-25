@@ -13,7 +13,9 @@ A non-parametric way to estimate the PDF of a randon variable. It is also called
 
 ## Method 
 Let h > 0,  
-\[
- g_x(y) = \begin{cases}\frac{1}{2h},&y\in(x-h, x+h)\\ 
-          0,&otherwise\end{cases}
-\]
+$$
+ g_x(y) = \begin{cases}
+            \frac{1}{2h},& y\in(x-h, x+h)\\ 
+            0,& otherwise
+            \end{cases}
+$$
