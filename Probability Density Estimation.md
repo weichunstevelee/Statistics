@@ -19,3 +19,8 @@ $$
             0,& otherwise
             \end{cases}
 $$
+
+Define estimate of function f. 
+$$
+ \head{f}_n(y) = \frac{1}{n} \sum_{i=1}^n g_{X(i)}(y)
+$$
