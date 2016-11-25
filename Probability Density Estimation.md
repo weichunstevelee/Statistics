@@ -12,4 +12,8 @@ A non-parametric way to estimate the PDF of a randon variable. It is also called
 2. They have same probability density function $f$, which is unknown. 
 
 ## Method 
-Let h > 0,  $$g_x(y) = \begin{cases}\frac{1}{2h},&y\in(x-h, x+h)\\ 0,&otherwise\end{cases}$$
+Let h > 0,  
+\[
+ g_x(y) = \begin{cases}\frac{1}{2h},&y\in(x-h, x+h)\\ 
+          0,&otherwise\end{cases}
+\]
